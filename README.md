@@ -23,3 +23,8 @@ Here are some ideas to get you started:
 - 📚 I’m currently learning Javascript & Electron
 - 🎓 I'm looking to contribute to more projects and develop my skills
 - 📮 You can contact me via email: andrewsimk@gmail.com
+
+### Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=drewsimkins&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
