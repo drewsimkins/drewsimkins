@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Drew, a backend developer located in the North of England.
+Got almost 10 years of experience working in C++, C#, Java, Kotlin & Others
+
+
 <!--
 **drewsimkins/drewsimkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📚 I’m currently learning Javascript & Electron
+- 🎓 I'm looking to contribute to more projects and develop my skills
+- 📮 You can contact me via email: andrewsimk@gmail.com
