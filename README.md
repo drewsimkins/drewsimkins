@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I'm Drew, a backend developer located in the North of England.
-Got almost 10 years of experience working in C++, C#, Java, Kotlin & Others
+
+I've got almost 10 years of experience working in C++, C#, Java, Kotlin & Others
 
 
 <!--
